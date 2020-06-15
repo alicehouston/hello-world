@@ -6,7 +6,7 @@ Pull requests Initiate Discussion About Your Commits. Because they're tightly in
 
 You can open a Pull Request at any point during the development process: when you have little or no code but want to share some screenshots or general ideas, when you're stuck and need help or advice, or when you're ready for someone to review your work. By using GitHub's system in your Pull Request message, you can ask for feedback from specific people or teams, whether they're down the hall or ten time zones away.
 # ProTip
-Pull Requests are useful for contributing to open source projects and for managing changes to shared repositories. If you're using a Fork & Pull Model, Pull Requests provide a way to notify project maintainers about the changes you'd like them to consider. If you're using a Shared Repository Model, Pull Requests help start code review and conversation about proposed changes before they're merged into the master branch.
+Pull Requests are useful for contributing to open source projects and for managing changes to shared repositories. If you're using a Fork & Pull Model, Pull Requests provide a way to notify project maintainers about the changes you'd like them to consider. However, iff you're using a Shared Repository Model, you'll learn that Pull Requests help start code review and conversation about proposed changes before they are merged into the master (or original) branch.
 
 # ProTip
 Commit messages are important, especially since Git tracks your changes and then displays them as commits once they're pushed to the server. By writing clear commit messages, you can make it easier for other people to follow along and provide feedback.
