@@ -5,7 +5,7 @@ Commits also create a transparent history of your work that others can follow to
 Pull requests Initiate Discussion About Your Commits. Because they're tightly integrated with the underlying Git repository, anyone can see exactly what changes would be merged if they accept your request.
 
 You can open a at any point during the development process: when you have little or no code but want to share some screenshots or general ideas, when you're stuck and need help or advice, or when you're ready for someone to review your work. By using GitHub's system in your Pull Request message, you can ask for feedback from specific people or teams, whether they're down the hall or ten time zones away.
-# ProTip
+# ProTip add to title
 Pull Requests are useful for contributing to open source projects and for managing changes to shared repositories. If you're using a Fork & Pull Model, Pull Requests provide a way to notify project maintainers about the changes you'd like them to consider. However, iff you're using a Shared Repository Model, you'll learn that Pull Requests help start code review and conversation about proposed changes before they are merged into the master (or original) branch.
 
 # ProTip
